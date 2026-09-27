@@ -1,0 +1,8 @@
+# Local database credentials
+mysqli_connect.php
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
