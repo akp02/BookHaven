@@ -9,9 +9,11 @@ https://akpeter.soisweb.uwm.edu/final/login_form.php
 Demo Credentials
 
 User: alanpeter
+
 Password: alanpeter88
 
 Admin: alanadmin
+
 Password: alanadmin99
 
 ## Features
