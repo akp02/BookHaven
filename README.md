@@ -4,6 +4,16 @@ BookHaven is a full-stack bookstore web application built with PHP and MySQL. Th
 
 The project was originally developed as a university web development project and was later expanded with a complete checkout and order-processing system.
 
+https://akpeter.soisweb.uwm.edu/final/login_form.php
+
+Demo Credentials
+
+User: alanpeter
+Password: alanpeter88
+
+Admin: alanadmin
+Password: alanadmin99
+
 ## Features
 
 ### User Features
